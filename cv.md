@@ -10,7 +10,7 @@ since 2020: Researcher/Lecturer at the [Institute for Natural Language Processin
 
 2017-2020: Researcher in the [projekt *hermA*](https://www.herma.uni-hamburg.de/) (Universität Hamburg)
 
-2008–2011: Researcher/Lecturer at the [German Institute](https://www.slm.uni-hamburg.de/germanistik.html) (Universität Hamburg)
+2014–2017: Researcher/Lecturer at the [German Institute](https://www.slm.uni-hamburg.de/germanistik.html) (Universität Hamburg)
 
 
 # Education
