@@ -6,7 +6,7 @@ permalink: https://melandresen.github.io/publications
 
 # Books
 
-Andresen, Melanie. 2021 (in print). **Datengeleitete Sprachbeschreibung mit syntaktischen Annotationen. Eine Korpusanalyse am Beispiel der germanistischen Wissenschaftssprachen** (Korpuslinguistik und interdisziplinäre Perspektiven auf Sprache (CLIP)). Tübingen: Narr Francke Attempto.
+Andresen, Melanie. 2022 (in print). **Datengeleitete Sprachbeschreibung mit syntaktischen Annotationen. Eine Korpusanalyse am Beispiel der germanistischen Wissenschaftssprachen** (Korpuslinguistik und interdisziplinäre Perspektiven auf Sprache (CLIP) 10). Tübingen: Narr Francke Attempto.
 
 Andresen, Melanie & Heike Zinsmeister. 2019. **Korpuslinguistik** (narr Starter). Tübingen: Narr Francke Attempto.
 
@@ -41,9 +41,16 @@ Andresen, Melanie, Michael Vauth & Heike Zinsmeister. 2020. **Modeling Ambiguity
 
 Adelmann, Benedikt, Melanie Andresen, Anke Begerow, Lina Franken, Evelyn Gius & Michael Vauth. 2019. **Evaluation of a Semantic Field-Based Approach to Identifying Text Sections about Specific Topics.** In DH 2019. Book of Abstracts. [https://dev.clariah.nl/files/dh2019/boa/0895.html](https://dev.clariah.nl/files/dh2019/boa/0895.html).
 
+Andresen, Melanie & Michael Vauth. 2018. **Added Value of Coreference Annotation for Character Analysis in Narratives.** In Proceedings of the Workshop on Annotation in Digital Humanities, 1–6. Sofia, Bulgaria. [http://ceur-ws.org/Vol-2155/andresen.pdf](http://ceur-ws.org/Vol-2155/andresen.pdf).
+
 Adelmann, Benedikt, Melanie Andresen, Wolfgang Menzel & Heike Zinsmeister. 2018. **Evaluation of Out-Of Domain Dependency Parsing for its Application in a Digital Humanities Project.** In Proceedings of the 14th Conference on Natural Language Processing (KONVENS 2018), 121–135. Wien, Österreich. [https://konvens.org/proceedings/2018/PDF/konvens18_14.pdf](https://konvens.org/proceedings/2018/PDF/konvens18_14.pdf).
 
 Adelmann, Benedikt, Melanie Andresen, Wolfgang Menzel & Heike Zinsmeister, 2018. **Evaluating Part-of-Speech and Morphological Tagging for Humanities’ Interpretation.** In Proceedings of the 2nd workshop on Corpus-based Research in the Humanities, 5–14. Wien, Österreich. [https://www.oeaw.ac.at/fileadmin/subsites/academiaecorpora/PDF/CRH2.pdf](https://www.oeaw.ac.at/fileadmin/subsites/academiaecorpora/PDF/CRH2.pdf)
+
+Andresen, Melanie. 2018. **Sprachliche Variation in der Germanistik: eine n-Gramm-basierte Stilanalyse.** In Book of Abstracts of DHd 2018, 311–315. Köln. [http://dhd2018.uni-koeln.de/wp-content/uploads/boa-DHd2018-web-ISBN.pdf](http://dhd2018.uni-koeln.de/wp-content/uploads/boa-DHd2018-web-ISBN.pdf).
+
+Andresen, Melanie, Katharina Krüger, Michael Vauth & Heike Zinsmeister. 2018. **Can we describe a literary character by its explicit attributions based on syntactic annotation?** In EADH 2018. Galway, Ireland. [https://eadh2018.exordo.com/programme/presentation/83](https://eadh2018.exordo.com/programme/presentation/83).
+
 
 Andresen, Melanie & Heike Zinsmeister. 2017. **The benefit of syntactic vs. linear n-grams for linguistic description.** In Proceedings of the 4th International Conference on Dependency Linguistics (Depling 2017), 4–14. Pisa, Italien. [http://aclweb.org/anthology/W17-6503](http://aclweb.org/anthology/W17-6503).
 
