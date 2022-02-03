@@ -6,9 +6,9 @@ permalink: https://melandresen.github.io/publications
 
 # Books
 
-Andresen, Melanie. 2022 (in print). **Datengeleitete Sprachbeschreibung mit syntaktischen Annotationen. Eine Korpusanalyse am Beispiel der germanistischen Wissenschaftssprachen** (Korpuslinguistik und interdisziplinäre Perspektiven auf Sprache (CLIP) 10). Tübingen: Narr Francke Attempto.
+Andresen, Melanie. 2022. **Datengeleitete Sprachbeschreibung mit syntaktischen Annotationen. Eine Korpusanalyse am Beispiel der germanistischen Wissenschaftssprachen** (Korpuslinguistik und interdisziplinäre Perspektiven auf Sprache (CLIP) 10). Tübingen: Narr Francke Attempto. ([link](https://www.narr.de/datengeleitete-sprachbeschreibung-mit-syntaktischen-annotationen-18514-1/))
 
-Andresen, Melanie & Heike Zinsmeister. 2019. **Korpuslinguistik** (narr Starter). Tübingen: Narr Francke Attempto.
+Andresen, Melanie & Heike Zinsmeister. 2019. **Korpuslinguistik** (narr Starter). Tübingen: Narr Francke Attempto. ([link](https://www.narr.de/korpuslinguistik-18226-1/))
 
 # Journal Papers
 
@@ -16,7 +16,7 @@ Andresen, Melanie & Heike Zinsmeister. 2019. **Korpuslinguistik** (narr Starter)
 
 <!-- Andresen, Melanie, Markus Gärtner, Sibylle Hermann, Janina Jacke, Nora Ketschik, Felicitas Kleinkopf, Jonas Kuhn & Axel Pichler. in Vorbereitung. Geisteswissenschaftliche Nachnutzung urhe- berrechtlich geschützter Werke. Gezielte Auswahl von Textauszügen durch Annotationen. Zeitschrift für digitale Geisteswissenschaften.-->
 
-<!-- Andresen, Melanie & Axel Pichler. in Vorbereitung. German Academic Language in the Humanities: A Replication Study. Research in Corpus Linguistics.-->
+<!-- Andresen, Melanie & Axel Pichler. in Vorbereitung. German Academic Language in the Humanities: A Replication Study. -->
 
 Andresen, Melanie & Heike Zinsmeister. 2018. **Stylistic Differences between Closely Related Disciplines: Metadiscourse in German Linguistics and Literary Studies.** In Educational Sciences: Theory & Practice 18(4), 883–898. [https://doi.org/10.12738/estp.2018.4.0042](https://doi.org/10.12738/estp.2018.4.0042).
 
@@ -30,6 +30,8 @@ Savary, Agata, Carlos Ramisch, Jena D. Hwang, Nathan Schneider, Melanie Andresen
 
 
 # Conference Papers
+
+Andresen, Melanie, Benjamin Krautter, Janis Pagel, Nils Reiter. 2022. **Nathan nicht ihr Vater? – Wissensvermittlungen im Drama annotieren.** In Book of Abstracts of DHd 2022. Potsdam, Germany.
 
 Andresen, Melanie & Dagmar Knorr. 2021. **Exploring the Use of the Pronoun I in German Aca- demic Texts with Machine Learning.** In Ralf H. Reussner, Anne Koziolek & Robert Heinrich (eds.), INFORMATIK 2020: Back to the Future (Lecture Notes in Informatics), 1327–1333. Bonn: Gesellschaft für Informatik. [https://doi.org/10.18420/inf2020_124](https://doi.org/10.18420/inf2020_124).
 
@@ -50,7 +52,6 @@ Adelmann, Benedikt, Melanie Andresen, Wolfgang Menzel & Heike Zinsmeister, 2018.
 Andresen, Melanie. 2018. **Sprachliche Variation in der Germanistik: eine n-Gramm-basierte Stilanalyse.** In Book of Abstracts of DHd 2018, 311–315. Köln. [http://dhd2018.uni-koeln.de/wp-content/uploads/boa-DHd2018-web-ISBN.pdf](http://dhd2018.uni-koeln.de/wp-content/uploads/boa-DHd2018-web-ISBN.pdf).
 
 Andresen, Melanie, Katharina Krüger, Michael Vauth & Heike Zinsmeister. 2018. **Can we describe a literary character by its explicit attributions based on syntactic annotation?** In EADH 2018. Galway, Ireland. [https://eadh2018.exordo.com/programme/presentation/83](https://eadh2018.exordo.com/programme/presentation/83).
-
 
 Andresen, Melanie & Heike Zinsmeister. 2017. **The benefit of syntactic vs. linear n-grams for linguistic description.** In Proceedings of the 4th International Conference on Dependency Linguistics (Depling 2017), 4–14. Pisa, Italien. [http://aclweb.org/anthology/W17-6503](http://aclweb.org/anthology/W17-6503).
 

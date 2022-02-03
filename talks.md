@@ -24,6 +24,8 @@ permalink: https://melandresen.github.io/talks
 
 # Conference Talks (most recent only)
 
+**Narration in academic language: a corpus linguistic approach based on verb morphology.** *DGfS 2022* (online), 25.02.2022. 
+
 with Dagmar Knorr: **Werkstatt: Korpuserstellung – Texte von Lernenden strukturiert sammeln und nutzbar machen.** *GAL Sektionentagung* (online), 17.09.2021.
 
 **A Plea for Trees – Corpus-Driven Register Exploration with Syntactic Annotations.** *Corpus Linguistics 2021* (online), 13.–16.07.2021.
