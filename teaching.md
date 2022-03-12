@@ -11,8 +11,12 @@ permalink: https://melandresen.github.io/teaching
 
 # Courses
 
+**SoSe 2022**
+- Erzählen messbar machen, Universität Stuttgart (Seminar)
+
 **WiSe 2021/22**
 - Computerlinguistische Methoden für die Digital Humanities, Universität Stuttgart (Vorlesung+Übung)
+- Distributionelle Semantik und Word Embeddings, Universität Siegen (Workshop)
 
 **SoSe 2021**
 - Was ist Luxus? Wertewandel korpuslinguistisch untersuchen, Universität Stuttgart (Projektseminar)
