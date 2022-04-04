@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Research"
-permalink: https://melandresen.github.io/research
+permalink: research
 ---
 
 In my research, I work with methods of corpus linguistics and computational linguistics, like annotation, statistical analysis, and machine learning. I love that these methods have possible applications in almost all areas of text based research. Here are some of the research fields I have been working on:

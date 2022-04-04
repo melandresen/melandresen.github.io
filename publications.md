@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Publications"
-permalink: https://melandresen.github.io/publications
+permalink: publications
 ---
 
 # Books

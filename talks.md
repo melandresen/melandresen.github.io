@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Talks"
-permalink: https://melandresen.github.io/talks
+permalink: talks
 ---
 
 # Invited Talks

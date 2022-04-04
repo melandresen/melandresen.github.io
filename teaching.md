@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Teaching"
-permalink: https://melandresen.github.io/teaching
+permalink: teaching
 ---
 
 # Qualification

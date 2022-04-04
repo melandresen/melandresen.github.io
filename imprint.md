@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ""
-permalink: https://melandresen.github.io/imprint
+permalink: imprint
 ---
 
 # Impressum
