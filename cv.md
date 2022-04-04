@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "CV"
-permalink: https://melandresen.github.io/cv
+permalink: cv
 ---
 
 # Professional Experience
