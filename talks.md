@@ -6,7 +6,9 @@ permalink: talks
 
 # Invited Talks
 
-**Mörikes Frühling fixen: Ein Korrekturversuch.** [*Poesiehackathon*](http://www.literatursehen.com/themenseite/poesie-hackathon/) (online) by DLA Marbach and Universität Potsdam, 18.06.2021
+**Erzählen messbar machen: Computerlinguistische Zugänge zu Narration.** Forschungskaleidoskop Linguistik, Universität Hamburg (online), 01.07.2022.
+
+**Mörikes Frühling fixen: Ein Korrekturversuch.** [*Poesiehackathon*](http://www.literatursehen.com/themenseite/poesie-hackathon/) (online) by DLA Marbach and Universität Potsdam, 18.06.2021.
 
 **„Lucie meine Schwester und schwanger von mir?“ – Wissensvermittlung in Dramen.** Ringvorlesung: *Digital Humanities – Grundlagen, Methoden und Reflexionen in interdisziplinärer Perspektive* (online), Universität Hamburg, 17.12.2020.
 
@@ -23,6 +25,8 @@ permalink: talks
 
 
 # Conference Talks (most recent only)
+
+with Benjamin Krautter: **Nathan nicht ihr Vater? – Wissensvermittlungen im Drama annotieren.** *DHd 2022* (online), 10.03.2022.
 
 **Narration in academic language: a corpus linguistic approach based on verb morphology.** *DGfS 2022* (online), 25.02.2022. 
 

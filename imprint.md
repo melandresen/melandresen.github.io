@@ -10,7 +10,7 @@ Angaben gemäß § 5 TMG
 
 Inhaltlich verantwortlich für den Inhalt der Website:
 
-Melanie Andresen <br/>
+Dr. Melanie Andresen <br/>
 Institut für Maschinelle Sprachverarbeitung<br/>
 Pfaffenwaldring 5b<br/>
 70569 Stuttgart

@@ -18,7 +18,7 @@ In an earlier project in Hamburg, [hermA](https://www.herma.uni-hamburg.de/), I 
 
 I became interested in academic language when I worked as a peer tutor at my university's writing center as a graduate student. In my PhD thesis, I investigated differences in the academic languages of literary studies and linguistics. My focus was on how these differences can be identified in a data-driven approach. 
 
-During my time at the writing center in Hamburg, I was also involved in the creation of the learner corpus [KoLaS](https://doi.org/10.25592/uhhfdm.8322). The corpus comprises texts from students that visited the writing center and therefore includes many different text types, disciplines and language backgrounds. Specifically, text comments by peer tutors are also available. Subsequently, we did some analyses on the use of *ich* (‘I’) in academic language and in learner data specifically.
+During my time at the writing center in Hamburg, I was also involved in the creation of the learner corpus [KoLaS](https://kolas-corpus.github.io). The corpus comprises texts from students that visited the writing center and therefore includes many different text types, disciplines and language backgrounds. Specifically, text comments by peer tutors are also available. Subsequently, we did some analyses on the use of *ich* (‘I’) in academic language and in learner data specifically.
 
 
 # Data reuse, reproducibility and replication
