@@ -20,7 +20,7 @@ Andresen, Melanie & Heike Zinsmeister. 2019. **Korpuslinguistik** (narr Starter)
 
 <!-- Andresen, Melanie & Axel Pichler. in Vorbereitung. German Academic Language in the Humanities: A Replication Study. -->
 
-<!-- Andresen, Melanie,  Benjamin Krautter, Janis Pagel, Nils Reiter. **Who Knows What in German Dramas? A Composite Annotation Scheme for Knowledge Transfer Annotation, Evaluation, and Analysis.** Journal for Computational Literary Studies -->
+Andresen, Melanie,  Benjamin Krautter, Janis Pagel, Nils Reiter. Accepted. **Who Knows What in German Dramas? A Composite Annotation Scheme for Knowledge Transfer Annotation, Evaluation, and Analysis.** Journal for Computational Literary Studies.
 
 Andresen, Melanie & Heike Zinsmeister. 2018. **Stylistic Differences between Closely Related Disciplines: Metadiscourse in German Linguistics and Literary Studies.** In Educational Sciences: Theory & Practice 18(4), 883–898. [https://doi.org/10.12738/estp.2018.4.0042](https://doi.org/10.12738/estp.2018.4.0042).
 

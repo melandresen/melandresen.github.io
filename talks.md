@@ -6,8 +6,6 @@ permalink: talks
 
 # Invited Talks
 
-**Erzählen messbar machen: Computerlinguistische Zugänge zu Narration.** Forschungskaleidoskop Linguistik, Universität Hamburg (online), 01.07.2022.
-
 **Mörikes Frühling fixen: Ein Korrekturversuch.** [*Poesiehackathon*](http://www.literatursehen.com/themenseite/poesie-hackathon/) (online) by DLA Marbach and Universität Potsdam, 18.06.2021.
 
 **„Lucie meine Schwester und schwanger von mir?“ – Wissensvermittlung in Dramen.** Ringvorlesung: *Digital Humanities – Grundlagen, Methoden und Reflexionen in interdisziplinärer Perspektive* (online), Universität Hamburg, 17.12.2020.
