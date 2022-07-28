@@ -14,13 +14,10 @@ Andresen, Melanie & Heike Zinsmeister. 2019. **Korpuslinguistik** (narr Starter)
 
 # Journal Papers
 
-<!-- Andresen, Melanie. in Vorbereitung. A Plea for Trees – Corpus-Driven Register Exploration with Syntactic Annotations. International Journal of Corpus Linguistics.-->
+Andresen, Melanie, Markus Gärtner, Sibylle Hermann, Janina Jacke, Nora Ketschik, Felicitas Kleinkopf, Jonas Kuhn & Axel Pichler. to appear. Geisteswissenschaftliche Nachnutzung urhe- berrechtlich geschützter Werke. Gezielte Auswahl von Textauszügen durch Annotationen. Zeitschrift für digitale Geisteswissenschaften.
 
-<!-- Andresen, Melanie, Markus Gärtner, Sibylle Hermann, Janina Jacke, Nora Ketschik, Felicitas Kleinkopf, Jonas Kuhn & Axel Pichler. in Vorbereitung. Geisteswissenschaftliche Nachnutzung urhe- berrechtlich geschützter Werke. Gezielte Auswahl von Textauszügen durch Annotationen. Zeitschrift für digitale Geisteswissenschaften.-->
 
-<!-- Andresen, Melanie & Axel Pichler. in Vorbereitung. German Academic Language in the Humanities: A Replication Study. -->
-
-Andresen, Melanie,  Benjamin Krautter, Janis Pagel, Nils Reiter. Accepted. **Who Knows What in German Dramas? A Composite Annotation Scheme for Knowledge Transfer Annotation, Evaluation, and Analysis.** Journal for Computational Literary Studies.
+Andresen, Melanie,  Benjamin Krautter, Janis Pagel, Nils Reiter. to appear. **Who Knows What in German Drama? A Composite Annotation Scheme for Knowledge Transfer Annotation, Evaluation, and Analysis.** Journal for Computational Literary Studies.
 
 Andresen, Melanie & Heike Zinsmeister. 2018. **Stylistic Differences between Closely Related Disciplines: Metadiscourse in German Linguistics and Literary Studies.** In Educational Sciences: Theory & Practice 18(4), 883–898. [https://doi.org/10.12738/estp.2018.4.0042](https://doi.org/10.12738/estp.2018.4.0042).
 

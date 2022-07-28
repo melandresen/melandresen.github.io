@@ -11,6 +11,9 @@ permalink: teaching
 
 # Courses
 
+**WiSe 2022/23**
+- Computerlinguistische Methoden für die Digital Humanities, Universität Stuttgart (Vorlesung+Übung)
+
 **SoSe 2022**
 - Erzählen messbar machen, Universität Stuttgart (Seminar)
 
