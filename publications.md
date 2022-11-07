@@ -6,7 +6,7 @@ permalink: publications
 
 # Books
 
-<!-- :new: Andresen, Melanie. 2023. **Computerlinguistische Methoden für die Digital Humanities.** Tübingen: Narr Francke Attempto.-->
+<!-- Andresen, Melanie. 2023. **Computerlinguistische Methoden für die Digital Humanities.** Tübingen: Narr Francke Attempto.-->
 
 Andresen, Melanie. 2022. **Datengeleitete Sprachbeschreibung mit syntaktischen Annotationen. Eine Korpusanalyse am Beispiel der germanistischen Wissenschaftssprachen** (Korpuslinguistik und interdisziplinäre Perspektiven auf Sprache (CLIP) 10). Tübingen: Narr Francke Attempto. ([link](https://www.narr.de/datengeleitete-sprachbeschreibung-mit-syntaktischen-annotationen-18514-1/))
 
@@ -16,7 +16,7 @@ Andresen, Melanie & Heike Zinsmeister. 2019. **Korpuslinguistik** (narr Starter)
 
 Andresen, Melanie,  Benjamin Krautter, Janis Pagel, Nils Reiter. to appear. **Who Knows What in German Drama? A Composite Annotation Scheme for Knowledge Transfer Annotation, Evaluation, and Analysis.** Journal for Computational Literary Studies.
 
-:new: Andresen, Melanie, Markus Gärtner, Sibylle Hermann, Janina Jacke, Nora Ketschik, Felicitas Kleinkopf, Jonas Kuhn & Axel Pichler. 2022. **Vorzüge von Auszügen -- Urheberrechtlich geschützte Texte in den digitalen Geisteswissenschaften (nach-)nutzen.** Zeitschrift für digitale Geisteswissenschaften. [https://doi.org/10.17175/2022_007](https://doi.org/10.17175/2022_007).
+<span style="color:red">*NEW*</span> Andresen, Melanie, Markus Gärtner, Sibylle Hermann, Janina Jacke, Nora Ketschik, Felicitas Kleinkopf, Jonas Kuhn & Axel Pichler. 2022. **Vorzüge von Auszügen -- Urheberrechtlich geschützte Texte in den digitalen Geisteswissenschaften (nach-)nutzen.** Zeitschrift für digitale Geisteswissenschaften. [https://doi.org/10.17175/2022_007](https://doi.org/10.17175/2022_007).
 
 Andresen, Melanie & Heike Zinsmeister. 2018. **Stylistic Differences between Closely Related Disciplines: Metadiscourse in German Linguistics and Literary Studies.** In Educational Sciences: Theory & Practice 18(4), 883–898. [https://doi.org/10.12738/estp.2018.4.0042](https://doi.org/10.12738/estp.2018.4.0042).
 
@@ -73,4 +73,4 @@ Andresen, Melanie & Michael Vauth. 2020. **Figurenrelationen und Figurencharakte
 
 # Reviews
 
-:new: Andresen, Melanie. 2022. **Review of Annotations in Scholarly Editions and Research: Functions, Differentiation, Systematization (Julia Nantke, Frederik Schlupkothen)**. Digital Humanities Quarterly 16(4). ([link](http://www.digitalhumanities.org/dhq/vol/16/4/000655/000655.html))
+<span style="color:red">*NEW*</span> Andresen, Melanie. 2022. **Review of Annotations in Scholarly Editions and Research: Functions, Differentiation, Systematization (Julia Nantke, Frederik Schlupkothen)**. Digital Humanities Quarterly 16(4). ([link](http://www.digitalhumanities.org/dhq/vol/16/4/000655/000655.html))
