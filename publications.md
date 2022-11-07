@@ -6,7 +6,7 @@ permalink: publications
 
 # Books
 
-<!-- Andresen, Melanie. 2023. **Computerlinguistische Methoden für die Digital Humanities.** Tübingen: Narr Francke Attempto.-->
+<!-- :new: Andresen, Melanie. 2023. **Computerlinguistische Methoden für die Digital Humanities.** Tübingen: Narr Francke Attempto.-->
 
 Andresen, Melanie. 2022. **Datengeleitete Sprachbeschreibung mit syntaktischen Annotationen. Eine Korpusanalyse am Beispiel der germanistischen Wissenschaftssprachen** (Korpuslinguistik und interdisziplinäre Perspektiven auf Sprache (CLIP) 10). Tübingen: Narr Francke Attempto. ([link](https://www.narr.de/datengeleitete-sprachbeschreibung-mit-syntaktischen-annotationen-18514-1/))
 
@@ -14,9 +14,9 @@ Andresen, Melanie & Heike Zinsmeister. 2019. **Korpuslinguistik** (narr Starter)
 
 # Journal Papers
 
-Andresen, Melanie, Markus Gärtner, Sibylle Hermann, Janina Jacke, Nora Ketschik, Felicitas Kleinkopf, Jonas Kuhn & Axel Pichler. to appear. **Vorzüge von Auszügen -- Urheberrechtlich geschützte Texte in den digitalen Geisteswissenschaften (nach-)nutzen.** Zeitschrift für digitale Geisteswissenschaften.
-
 Andresen, Melanie,  Benjamin Krautter, Janis Pagel, Nils Reiter. to appear. **Who Knows What in German Drama? A Composite Annotation Scheme for Knowledge Transfer Annotation, Evaluation, and Analysis.** Journal for Computational Literary Studies.
+
+:new: Andresen, Melanie, Markus Gärtner, Sibylle Hermann, Janina Jacke, Nora Ketschik, Felicitas Kleinkopf, Jonas Kuhn & Axel Pichler. 2022. **Vorzüge von Auszügen -- Urheberrechtlich geschützte Texte in den digitalen Geisteswissenschaften (nach-)nutzen.** Zeitschrift für digitale Geisteswissenschaften. [https://doi.org/10.17175/2022_007](https://doi.org/10.17175/2022_007).
 
 Andresen, Melanie & Heike Zinsmeister. 2018. **Stylistic Differences between Closely Related Disciplines: Metadiscourse in German Linguistics and Literary Studies.** In Educational Sciences: Theory & Practice 18(4), 883–898. [https://doi.org/10.12738/estp.2018.4.0042](https://doi.org/10.12738/estp.2018.4.0042).
 
@@ -27,14 +27,14 @@ Andresen, Melanie. 2016. **Im Theorie-Teil der Arbeit werden wir über Mehrsprac
 
 # Editorship
 
-<!-- Andresen, Melanie & Nils Reiter (eds.): **Computational Drama Analysis: Reflecting Methods and Interpretations.** Berlin, Boston: De Gruyter.-->
+<!-- :new: Andresen, Melanie & Nils Reiter (eds.): **Computational Drama Analysis: Reflecting Methods and Interpretations.** Berlin, Boston: De Gruyter.-->
 
 Savary, Agata, Carlos Ramisch, Jena D. Hwang, Nathan Schneider, Melanie Andresen, Sameer Pradhan & Miriam R. L. Petruck (eds.). 2018. **Proceedings of the joint workshop on linguistic annotation, multiword expressions and constructions (LAW-MWE-CxG-2018).** Santa Fe, New Mexico, USA: Association for Computational Linguistics. [https://www.aclweb.org/anthology/W18-4900](https://www.aclweb.org/anthology/W18-4900).
 
 
 # Conference Papers
 
-Andresen, Melanie, Benjamin Krautter, Janis Pagel, Nils Reiter. 2022. **Nathan nicht ihr Vater? – Wissensvermittlungen im Drama annotieren.** In Book of Abstracts of DHd 2022. Potsdam, Germany.
+Andresen, Melanie, Benjamin Krautter, Janis Pagel, Nils Reiter. 2022. **Nathan nicht ihr Vater? – Wissensvermittlungen im Drama annotieren.** In Book of Abstracts of DHd 2022. Potsdam, Germany. [https://doi.org/10.5281/zenodo.6327912](https://doi.org/10.5281/zenodo.6327912).
 
 Andresen, Melanie & Dagmar Knorr. 2021. **Exploring the Use of the Pronoun I in German Aca- demic Texts with Machine Learning.** In Ralf H. Reussner, Anne Koziolek & Robert Heinrich (eds.), INFORMATIK 2020: Back to the Future (Lecture Notes in Informatics), 1327–1333. Bonn: Gesellschaft für Informatik. [https://doi.org/10.18420/inf2020_124](https://doi.org/10.18420/inf2020_124).
 
@@ -67,10 +67,10 @@ Andresen, Melanie & Heike Zinsmeister. 2017. **Approximating Style by N-gram-bas
 
 <!-- Pagel, Janis, Benjamin Krautter, Melanie Andresen, Marcus Willand & Nils Reiter. im Erscheinen. **Doing DH in a mixed-methods scenario. Reflecting Quantitative Drama Analytics.** In Mixed Methods (Digital Humanities Research). Bielefeld: Transcript. -->
 
-Andresen, Melanie. 2021. **Nachnutzen und nachnutzen lassen: Datenaufbereitung im Rampenlicht.** In Carmen Heine & Dagmar Knorr (eds.), Schreibwissenschaft methodisch (Forum Angewandte Linguistik 67). Berlin: Lang.
+Andresen, Melanie. 2021. **Nachnutzen und nachnutzen lassen: Datenaufbereitung im Rampenlicht.** In Carmen Heine & Dagmar Knorr (eds.), Schreibwissenschaft methodisch (Forum Angewandte Linguistik 67), 69-92. Berlin: Lang.
 
 Andresen, Melanie & Michael Vauth. 2020. **Figurenrelationen und Figurencharakterisierung. Interdisziplinarität zwischen Literaturwissenschaft und Computerlinguistik am Beispiel der Text- und Genreanalyse.** In Dominik Orth & Margarete Jarchow (eds.), Kultur und Technik. Interdisziplinäre Perspektiven, 43–62. Kiel/Hamburg: Wachholtz.
 
-<!-- # Reviews
+# Reviews
 
-Andresen, Melanie. under review. **Review of Annotations in Scholarly Editions and Research: Functions, Differentiation, Systematization (Julia Nantke, Frederik Schlupkothen)**. Digital Humanities Quarterly. -->
+:new: Andresen, Melanie. 2022. **Review of Annotations in Scholarly Editions and Research: Functions, Differentiation, Systematization (Julia Nantke, Frederik Schlupkothen)**. Digital Humanities Quarterly 16(4). ([link](http://www.digitalhumanities.org/dhq/vol/16/4/000655/000655.html))
