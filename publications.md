@@ -35,7 +35,7 @@ Savary, Agata, Carlos Ramisch, Jena D. Hwang, Nathan Schneider, Melanie Andresen
 
 # Conference Papers
 
-Sökefeld, Carla, Melanie Andresen, Johanna Binnewitt, Heike Zinsmeister. accepted. Personal noun detection for German. The 2023 Joint ACL - ISO Workshop on Interoperable Semantic Annotation.
+Sökefeld, Carla, Melanie Andresen, Johanna Binnewitt, Heike Zinsmeister. accepted. **Personal noun detection for German.** The 2023 Joint ACL - ISO Workshop on Interoperable Semantic Annotation.
 
 Ehlers, Lena, Melanie Andresen. 2023. **Klassifikation von Figurenauf- und -abtritten in XML-kodierten Dramen.** Book of Abstract of DHd 2023. [https://zenodo.org/record/7715259](https://zenodo.org/record/7715259).
 
