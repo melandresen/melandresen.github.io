@@ -11,6 +11,9 @@ permalink: teaching
 
 # Courses
 
+**SoSe 2023**
+- Textgenerierung für deutsche Dramen, Universität Stuttgart (Projektseminar, zusammen mit Lukas Wertz)
+
 **WiSe 2022/23**
 - Computerlinguistische Methoden für die Digital Humanities, Universität Stuttgart (Vorlesung+Übung)
 
