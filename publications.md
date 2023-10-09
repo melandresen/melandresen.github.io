@@ -35,11 +35,14 @@ Savary, Agata, Carlos Ramisch, Jena D. Hwang, Nathan Schneider, Melanie Andresen
 
 # Conference Papers
 
-Sökefeld, Carla, Melanie Andresen, Johanna Binnewitt, Heike Zinsmeister. accepted. **Personal noun detection for German.** The 2023 Joint ACL - ISO Workshop on Interoperable Semantic Annotation.
+Sökefeld, Carla, Melanie Andresen, Johanna Binnewitt & Heike Zinsmeister. 2023. **Personal noun detection for German.** Proceedings of the 19th Joint ACL - ISO Workshop on Interoperable Semantic Annotation (ISA-19), 33–39. [https://sigsem.uvt.nl/isa19/ISA-19-proceedings.pdf](https://sigsem.uvt.nl/isa19/ISA-19-proceedings.pdf).
 
-Ehlers, Lena, Melanie Andresen. 2023. **Klassifikation von Figurenauf- und -abtritten in XML-kodierten Dramen.** Book of Abstract of DHd 2023. [https://zenodo.org/record/7715259](https://zenodo.org/record/7715259).
+Andresen, Melanie & Axel Pichler. 2023. *Replicating a Data-Driven Corpus Analysis: The Example of Academic Language*. In Digital Humanities 2023: Book of Abstracts, 177-178. 
+[https://zenodo.org/record/8210808](https://zenodo.org/record/8210808).
 
-Andresen, Melanie, Markus Gärtner, Janina Jacke, Nora Ketschik, Axel Pichler. 2023. **Urheberrechtlich geschützte Texte nachnutzen – Der XSample-Workflow.** Book of Abstract of DHd 2023. [https://doi.org/10.5281/zenodo.7715448](https://doi.org/10.5281/zenodo.7715448).
+Ehlers, Lena & Melanie Andresen. 2023. **Klassifikation von Figurenauf- und -abtritten in XML-kodierten Dramen.** Book of Abstract of DHd 2023. [https://zenodo.org/record/7715259](https://zenodo.org/record/7715259).
+
+Andresen, Melanie, Markus Gärtner, Janina Jacke, Nora Ketschik & Axel Pichler. 2023. **Urheberrechtlich geschützte Texte nachnutzen – Der XSample-Workflow.** Book of Abstract of DHd 2023. [https://doi.org/10.5281/zenodo.7715448](https://doi.org/10.5281/zenodo.7715448).
 
 Andresen, Melanie, Benjamin Krautter, Janis Pagel, Nils Reiter. 2022. **Nathan nicht ihr Vater? – Wissensvermittlungen im Drama annotieren.** In Book of Abstracts of DHd 2022. Potsdam, Germany. [https://doi.org/10.5281/zenodo.6327912](https://doi.org/10.5281/zenodo.6327912).
 
@@ -72,7 +75,7 @@ Andresen, Melanie & Heike Zinsmeister. 2017. **Approximating Style by N-gram-bas
 
 <!-- Andresen, Melanie & Nils Reiter: **Introduction**. In Andresen, Melanie & Nils Reiter (eds.): Computational Drama Analysis: Reflecting Methods and Interpretations. Berlin, Boston: De Gruyter.-->
 
-<!-- Pagel, Janis, Benjamin Krautter, Melanie Andresen, Marcus Willand & Nils Reiter. im Erscheinen. **Doing DH in a mixed-methods scenario. Reflecting Quantitative Drama Analytics.** In Mixed Methods (Digital Humanities Research). Bielefeld: Transcript. -->
+Pagel, Janis, Benjamin Krautter, Melanie Andresen, Marcus Willand & Nils Reiter. 2023. *On Designing Collaboration in a Mixed-Methods Scenario. Reflecting Quantitative Drama Analytics (QuaDrama)*. In Birgit Schneider, Beate Löffler, Tino Mager & Carola Hein (eds.), Mixing Methods. Practical Insights from the Humanities in the Digital Age (Digital Humanities Research 7), 81–102. Bielefeld: transcript. [link](https://www.transcript-verlag.de/media/pdf/c1/06/54/oa9783839469132yVn6dCEOeHfkF.pdf).
 
 Andresen, Melanie. 2021. **Nachnutzen und nachnutzen lassen: Datenaufbereitung im Rampenlicht.** In Carmen Heine & Dagmar Knorr (eds.), Schreibwissenschaft methodisch (Forum Angewandte Linguistik 67), 69-92. Berlin: Lang.
 

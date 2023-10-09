@@ -11,8 +11,12 @@ permalink: teaching
 
 # Courses
 
+**WiSe 2023/24**
+- Computerlinguistische Methoden für die Digital Humanities, Universität Stuttgart (Vorlesung+Übung)
+
 **SoSe 2023**
 - Textgenerierung für deutsche Dramen, Universität Stuttgart (Projektseminar, zusammen mit Lukas Wertz)
+- Python für die Korpuslinguistik, ZuKoKo-Sommerschule, Universität Zürich
 
 **WiSe 2022/23**
 - Computerlinguistische Methoden für die Digital Humanities, Universität Stuttgart (Vorlesung+Übung)
