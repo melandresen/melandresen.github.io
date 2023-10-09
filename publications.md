@@ -6,7 +6,7 @@ permalink: publications
 
 # Books
 
-Andresen, Melanie. In preparation. **Computerlinguistische Methoden für die Digital Humanities. Eine Einführung für Geisteswissenschaftler:innen.** Tübingen: Narr Francke Attempto.
+Andresen, Melanie. In preparation. **Computerlinguistische Methoden für die Digital Humanities. Eine Einführung für Geisteswissenschaftler:innen.** Tübingen: Narr Francke Attempto. ([link](https://www.narr.de/computerlinguistische-methoden-f%C3%BCr-die-digital-humanities-18579-1/)).
 
 Andresen, Melanie. 2022. **Datengeleitete Sprachbeschreibung mit syntaktischen Annotationen. Eine Korpusanalyse am Beispiel der germanistischen Wissenschaftssprachen** (Korpuslinguistik und interdisziplinäre Perspektiven auf Sprache (CLIP) 10). Tübingen: Narr Francke Attempto. ([link](https://www.narr.de/datengeleitete-sprachbeschreibung-mit-syntaktischen-annotationen-18514-1/))
 
@@ -37,7 +37,7 @@ Savary, Agata, Carlos Ramisch, Jena D. Hwang, Nathan Schneider, Melanie Andresen
 
 Sökefeld, Carla, Melanie Andresen, Johanna Binnewitt & Heike Zinsmeister. 2023. **Personal noun detection for German.** Proceedings of the 19th Joint ACL - ISO Workshop on Interoperable Semantic Annotation (ISA-19), 33–39. [https://sigsem.uvt.nl/isa19/ISA-19-proceedings.pdf](https://sigsem.uvt.nl/isa19/ISA-19-proceedings.pdf).
 
-Andresen, Melanie & Axel Pichler. 2023. *Replicating a Data-Driven Corpus Analysis: The Example of Academic Language*. In Digital Humanities 2023: Book of Abstracts, 177-178. 
+Andresen, Melanie & Axel Pichler. 2023. **Replicating a Data-Driven Corpus Analysis: The Example of Academic Language**. In Digital Humanities 2023: Book of Abstracts, 177-178. 
 [https://zenodo.org/record/8210808](https://zenodo.org/record/8210808).
 
 Ehlers, Lena & Melanie Andresen. 2023. **Klassifikation von Figurenauf- und -abtritten in XML-kodierten Dramen.** Book of Abstract of DHd 2023. [https://zenodo.org/record/7715259](https://zenodo.org/record/7715259).
@@ -75,7 +75,7 @@ Andresen, Melanie & Heike Zinsmeister. 2017. **Approximating Style by N-gram-bas
 
 <!-- Andresen, Melanie & Nils Reiter: **Introduction**. In Andresen, Melanie & Nils Reiter (eds.): Computational Drama Analysis: Reflecting Methods and Interpretations. Berlin, Boston: De Gruyter.-->
 
-Pagel, Janis, Benjamin Krautter, Melanie Andresen, Marcus Willand & Nils Reiter. 2023. *On Designing Collaboration in a Mixed-Methods Scenario. Reflecting Quantitative Drama Analytics (QuaDrama)*. In Birgit Schneider, Beate Löffler, Tino Mager & Carola Hein (eds.), Mixing Methods. Practical Insights from the Humanities in the Digital Age (Digital Humanities Research 7), 81–102. Bielefeld: transcript. [link](https://www.transcript-verlag.de/media/pdf/c1/06/54/oa9783839469132yVn6dCEOeHfkF.pdf).
+Pagel, Janis, Benjamin Krautter, Melanie Andresen, Marcus Willand & Nils Reiter. 2023. **On Designing Collaboration in a Mixed-Methods Scenario. Reflecting Quantitative Drama Analytics (QuaDrama)**. In Birgit Schneider, Beate Löffler, Tino Mager & Carola Hein (eds.), Mixing Methods. Practical Insights from the Humanities in the Digital Age (Digital Humanities Research 7), 81–102. Bielefeld: transcript. ([link](https://www.transcript-verlag.de/media/pdf/c1/06/54/oa9783839469132yVn6dCEOeHfkF.pdf)).
 
 Andresen, Melanie. 2021. **Nachnutzen und nachnutzen lassen: Datenaufbereitung im Rampenlicht.** In Carmen Heine & Dagmar Knorr (eds.), Schreibwissenschaft methodisch (Forum Angewandte Linguistik 67), 69-92. Berlin: Lang.
 
