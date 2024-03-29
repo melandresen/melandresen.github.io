@@ -6,7 +6,7 @@ permalink: publications
 
 # Books
 
-Andresen, Melanie. In preparation. **Computerlinguistische Methoden für die Digital Humanities. Eine Einführung für Geisteswissenschaftler:innen.** Tübingen: Narr Francke Attempto. ([link](https://www.narr.de/computerlinguistische-methoden-f%C3%BCr-die-digital-humanities-18579-1/)).
+Andresen, Melanie. 2024. **Computerlinguistische Methoden für die Digital Humanities. Eine Einführung für Geisteswissenschaftler:innen.** Tübingen: Narr Francke Attempto. ([link](https://www.narr.de/computerlinguistische-methoden-f%C3%BCr-die-digital-humanities-18579-1/)).
 
 Andresen, Melanie. 2022. **Datengeleitete Sprachbeschreibung mit syntaktischen Annotationen. Eine Korpusanalyse am Beispiel der germanistischen Wissenschaftssprachen** (Korpuslinguistik und interdisziplinäre Perspektiven auf Sprache (CLIP) 10). Tübingen: Narr Francke Attempto. ([link](https://www.narr.de/datengeleitete-sprachbeschreibung-mit-syntaktischen-annotationen-18514-1/))
 
@@ -14,6 +14,8 @@ Andresen, Melanie & Heike Zinsmeister. 2019. **Korpuslinguistik** (narr Starter)
 
 
 # Journal Papers
+
+Andresen, Melanie,  Benjamin Krautter, Janis Pagel, Nils Reiter. 2022. **Knowledge Distribution in German Drama: An Annotated Corpus.** Journal of Open Humanities Data 10(6). [https://doi.org/10.5334/johd.167](https://doi.org/10.5334/johd.167).
 
 Andresen, Melanie,  Benjamin Krautter, Janis Pagel, Nils Reiter. 2022. **Who Knows What in German Drama? A Composite Annotation Scheme for Knowledge Transfer Annotation, Evaluation, and Analysis.** Journal for Computational Literary Studies 1(1). [https://doi.org/10.48694/jcls.107](https://doi.org/10.48694/jcls.107).
 

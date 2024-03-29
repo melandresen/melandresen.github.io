@@ -4,9 +4,13 @@ title: "CV"
 permalink: cv
 ---
 
+
+
 # Professional Experience
 
-since 2020: Researcher/Lecturer at the [Institute for Natural Language Processing](https://www.ims.uni-stuttgart.de/) (Universität Stuttgart)
+since 2024: Data Engineer at DeepL
+
+2020-2024: Researcher/Lecturer at the [Institute for Natural Language Processing](https://www.ims.uni-stuttgart.de/) (Universität Stuttgart)
 
 2017-2020: Researcher in the [projekt *hermA*](https://www.herma.uni-hamburg.de/) (Universität Hamburg)
 

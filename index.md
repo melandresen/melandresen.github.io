@@ -4,9 +4,8 @@ layout: home
 
 <img src="images/2020_MA_sq.jpg" alt="Melanie Andresen" width="200"/>
 
-I am a researcher in corpus linguistics and computational linguistics at the [Institute for Natural Language Processing](https://www.ims.uni-stuttgart.de/) at the University of Stuttgart. In my linguistic research, I am interested in how registers and text genres work, with a focus on German academic language. Most of my work today goes beyond the borders of linguistics: In the field of digital humanities, I collaborate with researchers from other humanities and social sciences like literary studies, cultural anthropology and philosophy. We investigate how methods from corpus linguistics and computational linguistics can contribute to all kinds of text related research. For details, please see [research]({% link research.md %}) and [publications]({% link publications.md %}).
-
-In Stuttgart, I teach [courses]({% link teaching.md %}) in the master program Digital Humanities. I am passionate about teaching computational linguistics and programming to people from the humanities, because I myself started my academic education with a traditional program in German Studies and later found my way into computational and quantitative research.
+I am a data engineer at DeepL, working on the improvement of machine translation. 
+Until 2024, I was a postdoctoral researcher in corpus linguistics and computational linguistics at the [Institute for Natural Language Processing](https://www.ims.uni-stuttgart.de/) at the University of Stuttgart. In interdisciplinary projects, I investigated how methods from corpus linguistics and computational linguistics can contribute to all kinds of text-related research in the humanities. I have also taught courses in the Master's program in digital humanities and have published a [textbook on computational linguistic methods for the digital humanities][https://www.narr.de/computerlinguistische-methoden-f%C3%BCr-die-digital-humanities-18579-1/]. 
 
 Pronouns: she/her
 
